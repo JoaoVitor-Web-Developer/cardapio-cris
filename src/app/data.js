@@ -1,0 +1,30 @@
+// data.js
+const menuItems = [
+  { id: 1, name: 'Creme Ninho com morango', price: 55 },
+  { id: 2, name: 'Creme Ninho com brigadeiro branco', price: 55 },
+  { id: 3, name: 'Creme de Ninho preto com brigadeiro ao leite', price: 55 },
+  { id: 4, name: 'Creme de Ninho com beijinho', price: 55 },
+  { id: 5, name: 'Creme de Ninho com abacaxi', price: 55 },
+  { id: 6, name: 'Creme de Ninho', price: 55 },
+  { id: 7, name: 'Creme de Ninho trufado', price: 55 },
+  { id: 8, name: 'Creme de Ninho com doce de leite', price: 55 },
+  { id: 9, name: 'Creme de Ninho com geleia de morango', price: 55 },
+  { id: 10, name: 'Nozes crocante', price: 55 },
+  { id: 11, name: 'Nozes com doce de leite', price: 55 },
+  { id: 12, name: 'Nozes com creme de Ninho', price: 55 },
+  { id: 13, name: 'Nozes com brigadeiro branco', price: 55 },
+  { id: 14, name: 'Brigadeiro branco e brigadeiro de choc. ao leite', price: 55 },
+  { id: 15, name: 'Prestígio', price: 55 },
+  { id: 16, name: 'Creme de avelã', price: 65 },
+  { id: 17, name: 'Creme de avelã e ninho', price: 65 },
+  { id: 18, name: 'Alpino', price: 65 },
+  { id: 19, name: 'Abacaxi com doce de leite', price: 65 },
+  { id: 20, name: 'Doce de leite com ameixa', price: 65 },
+  { id: 21, name: 'Brigadeiro branco com morango', price: 65 },
+  { id: 22, name: 'Cereja com creme de Ninho branco', price: 65 },
+  { id: 23, name: 'Cereja com creme de Ninho preto', price: 65 },
+  { id: 24, name: 'Cereja com brigadeiro', price: 65 },
+  { id: 25, name: 'Bolo gelado (pêssego, ameixa, abacaxi e coco)', price: 48 },
+];
+
+export default menuItems;
